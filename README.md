@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Magazine</h2>
-In this project, I have build a Magazine article using CSS Grid, <br />The project is built using HTML5 & CSS3.
+In this project, I have build a Magazine article using CSS Grid, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/magazine/"><strong>➥ Live Demo</strong></a>
 
